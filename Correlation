@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
  "cells": [
   {
@@ -17,7 +16,7 @@
     }
    ],
    "source": [
-    "# Correlation between variables like smoking and lung_cancer could help identify how smoking is linked to lung cancer\n",
+    "#Correlation between variables like smoking and lung_cancer could help identify how smoking is. linked to lung cancer\n",
     "# correlation measures the relationship between two or more variables. It tells you how strongly the variables are related to each other and in what direction (positive or negative).\n",
     "import pandas as pd\n",
     "\n",
@@ -59,6 +58,3 @@
  "nbformat": 4,
  "nbformat_minor": 2
 }
-=======
-
->>>>>>> 8930bb1502f99b624684f18a235288e38aed494e
