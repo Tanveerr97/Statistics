@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blinkit-data-analyst-project
 Blinkit-data-analyst-project
 Data Exploration and Initial Analysis using Jupyter Notebook:
@@ -24,3 +25,6 @@ data.to_csv('cleaned_blinkit_data.csv', index=False)
 # Data Visualization in Power BI
 After you've cleaned and transformed your data in Jupyter, it's time to visualize it using Power BI. Power BI allows you to create interactive and insightful reports and dashboards.
 ![Image](https://github.com/user-attachments/assets/09f7b921-3992-4eeb-bd77-a6e3a0a8d0ed)
+=======
+# Statistics
+>>>>>>> b06ee1875e6d7dd515b75252bf683734b1fd2c45
